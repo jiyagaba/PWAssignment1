@@ -1,0 +1,3 @@
+int:Space it will take is 4bytes(32 bits)
+bool : it will take 1 byte(8 bits)
+float: it will take 4 bytes(32 bits)

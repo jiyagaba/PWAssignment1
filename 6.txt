@@ -1,0 +1,6 @@
+a. 01Pwskills - Invalid (cannot start with a digit)
+b. _FLOAT - Valid (starts with an underscore)
+c. int - Invalid (reserved keyword)
+d. float - Invalid (reserved keyword)
+e. You will succeed - Invalid (contains spaces)
+
